@@ -1,9 +1,9 @@
 
 
-# olá! eu sou o Paulo Ricardo 👋
+### olá! eu sou o Paulo Ricardo 👋
 
-### Cursando Analise e Desenvolvimento de sistemas 🤓
+##### Cursando Analise e Desenvolvimento de sistemas 🤓
 
-### Atualmente Aprendendo Python 💻
+##### Atualmente Aprendendo Python 💻
 
-### Em processo de transição de carreira...
+##### Em processo de transição de carreira...

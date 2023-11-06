@@ -110,7 +110,7 @@ public class Tela_Login extends JFrame {
     // Método para criar uma borda arredondada com um raio específico
     private Border createRoundedBorder(Color color, int radius) {
         return BorderFactory.createCompoundBorder(
-                new LineBorder(color, 2, true), // Borda interna
+                new LineBorder(color, 1, true), // Borda interna
                 new EmptyBorder(radius, radius, radius, radius) // Espaçamento interno
         );
     }

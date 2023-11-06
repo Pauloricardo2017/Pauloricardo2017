@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="889341bb-be41-4b41-8e90-0082a723fcf4" name="Changes" comment="Foi criado a tela de login">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="889341bb-be41-4b41-8e90-0082a723fcf4" name="Changes" comment="Merge remote-tracking branch 'origin/master'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
@@ -135,7 +134,55 @@
       <option name="project" value="LOCAL" />
       <updated>1699242381422</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Foi criado a tela de login">
+      <option name="closed" value="true" />
+      <created>1699244026810</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699244026810</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Foi criado a tela de login&#10;&#10;Signed-off-by: Paulo Ricardo &lt;127266405+Pauloricardo2017@users.noreply.github.com&gt;">
+      <option name="closed" value="true" />
+      <created>1699244094916</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699244094916</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Foi criado a tela de login&#10;&#10;Signed-off-by: Paulo Ricardo &lt;127266405+Pauloricardo2017@users.noreply.github.com&gt;">
+      <option name="closed" value="true" />
+      <created>1699244107215</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699244107215</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1699244176533</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1699244176533</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1699244273371</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1699244273371</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1699244545712</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1699244545712</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,7 +198,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Foi criado a tela de login" />
-    <option name="LAST_COMMIT_MESSAGE" value="Foi criado a tela de login" />
+    <MESSAGE value="Foi criado a tela de login&#10;&#10;Signed-off-by: Paulo Ricardo &lt;127266405+Pauloricardo2017@users.noreply.github.com&gt;" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
